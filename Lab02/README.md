@@ -44,8 +44,9 @@ Mục tiêu chính là nắm vững:
 - Trình biên dịch **C++** (như `g++`) cho Câu 1
 - Môi trường **Python 3.x** cho các câu còn lại
 - Thư viện mật mã cho Python:
-  ```bash
-  pip install pycryptodome
+```bash
+pip install pycryptodome
+```
 ### Thực hiện
 1. Đối với file C++(Lab02_Bai2_1.cpp):
   ```bash
